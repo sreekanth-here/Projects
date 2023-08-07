@@ -1,1 +1,3 @@
-
+- The "Monitoring.ino" file is the main file that consists of all functions that contain the constraints for each of the sensor's thresholds value
+- In global.h file, I used the SoftwareSerial function to define the pin values of each sensor.
+- I created a gsm.h file to define the gsm module
